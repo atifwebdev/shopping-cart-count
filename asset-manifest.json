@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-count/static/css/main.175d7089.css",
+    "main.js": "/shopping-cart-count/static/js/main.48865a84.js",
+    "static/js/787.798e816e.chunk.js": "/shopping-cart-count/static/js/787.798e816e.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/shopping-cart-count/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/shopping-cart-count/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/shopping-cart-count/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/shopping-cart-count/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shopping-cart-count/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/shopping-cart-count/index.html",
+    "main.175d7089.css.map": "/shopping-cart-count/static/css/main.175d7089.css.map",
+    "main.48865a84.js.map": "/shopping-cart-count/static/js/main.48865a84.js.map",
+    "787.798e816e.chunk.js.map": "/shopping-cart-count/static/js/787.798e816e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.175d7089.css",
+    "static/js/main.48865a84.js"
+  ]
+}
